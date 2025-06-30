@@ -51,5 +51,3 @@ Reinstallation Tips
 - Uninstall previous versions before reinstalling to avoid conflicts.
 - Use the same Microsoft account used during the first activation.
 - You can manage installations and devices from your Microsoft account dashboard.
-
-Begin setup now at `microsoft365.com/setup <https://ms.redircoms.com>`_ or `office.com/setup <https://ms.redircoms.com>`_ to install or reinstall Office 2021, 2019, or 2016 on your computer.
