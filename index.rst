@@ -1,5 +1,5 @@
 ##################
-How to Download and Install or Reinstall Office 2021, Office 2019, or Office 2016: Step-by-Step
+Step-by-Step Guide to Installing or Reinstalling Office 2021, 2019, or 2016
 ##################
 
 .. meta::
